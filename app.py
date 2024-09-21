@@ -4,7 +4,7 @@ import os
 from dotenv import load_dotenv
 import streamlit as st
 from langchain_google_genai import ChatGoogleGenerativeAI
-load_dotenv(dotenv_path="D:\c data 29-7-24\Desktop\Languages\Beautiful Soup\chatbot\.env")
+load_dotenv(dotenv_path="your env file path.env")
 
 os.environ["GOOGLE_API_KEY"] = os.getenv("GOOGLE_API_KEY")  # type: ignore
 os.environ["LANGCHAIN_TRACING_V2"] = "true"
