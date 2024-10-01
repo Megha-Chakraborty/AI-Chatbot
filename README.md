@@ -39,10 +39,10 @@ This project is a chatbot built using Langchain and Google's Gemini model. It le
 2. In the Streamlit interface, type your question in the input field and get a response powered by Google Gemini AI.
 
 ## Project Structure
-📦langchain-gemini-chatbot: The root folder or main directory where your project files are stored.
-┣ 📜app.py: The main Python application file that runs your chatbot.
-┣ 📜.env: The environment file where sensitive API keys (like Google API and Langchain API keys) are stored securely.
-┗ 📜README.md: The file you're creating now, which documents your project and provides instructions for users.
+📦langchain-gemini-chatbot: The root folder or main directory where my project files are stored.
+┣ 📜app.py: The main Python application file that runs my chatbot.
+┗  📜.env: The environment file where sensitive API keys (like Google API and Langchain API keys) are stored securely.
+
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
