@@ -42,7 +42,3 @@ This project is a chatbot built using Langchain and Google's Gemini model. It le
 📦langchain-gemini-chatbot: The root folder or main directory where my project files are stored.
 ┣ 📜app.py: The main Python application file that runs my chatbot.
 ┗  📜.env: The environment file where sensitive API keys (like Google API and Langchain API keys) are stored securely.
-
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
